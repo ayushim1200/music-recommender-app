@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>🎧 Music Recommender</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
+  <style>
+    body {
+      background-image: url('https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4');
+      background-size: cover;
+      background-attachment: fixed;
+      background-position: center;
+      color: #fff;
+    }
+    .overlay {
+      background-color: rgba(0, 0, 0, 0.7);
+      padding: 30px;
+      border-radius: 10px;
+    }
+    .card {
+      background-color: rgba(255, 255, 255, 0.9);
+    }
+  </style>
+</head>
+<body>
+  <div class="container mt-5 overlay">
+    <h1 class="text-center mb-4">🎵 Music Recommender</h1>
+    <form method="POST" action="/recommend">
+      <div class="row">
+        <div class="col-md-10 mb-2">
+          <input type="text" name="song" class="form-control" placeholder="Enter your favorite song" required>
+        </div>
+        <div class="col-md-2 mb-2">
+          <button type="submit" class="btn btn-warning w-100">🎶 Recommend</button>
+        </div>
+      </div>
+    </form>
+
+    {% if error %}
+      <div class="alert alert-danger mt-4">{{ error }}</div>
+    {% endif %}
+
+    {% if recommendations %}
+      <div class="card mt-4 shadow-lg">
+        <img src="{{ image }}" class="card-img-top" style="height:300px; object-fit:cover;" alt="Music image">
+        <div class="card-body text-dark">
+          <h4 class="card-title">If you like "<strong>{{ input_song.title() }}</strong>", you might enjoy:</h4>
+          <ul class="list-group list-group-flush">
+            {% for song in recommendations %}
+              <li class="list-group-item">
+                🎧 <strong>{{ song['title'].title() }}</strong> by <em>{{ song['artist'] }}</em> ({{ song['top genre'] }})
+              </li>
+            {% endfor %}
+          </ul>
+        </div>
+      </div>
+    {% endif %}
+  </div>
+</body>
+</html>
