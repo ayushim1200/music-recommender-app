@@ -5,8 +5,8 @@ import requests
 
 app = Flask(__name__)
 
-# Load and clean the dataset
-df = pd.read_csv("songs.csv")
+# ✅ Fix UnicodeDecodeError on Render
+df = pd.read_csv("songs.csv", encoding="latin1")
 df['title'] = df['title'].astype(str).str.strip().str.lower()
 df['artist'] = df['artist'].astype(str).str.title()
 df['top genre'] = df['top genre'].astype(str).str.strip().str.lower()
@@ -22,13 +22,11 @@ def get_song_cover(song, artist):
             return data['results'][0]['artworkUrl100'].replace('100x100bb', '600x600bb')
     except:
         pass
-    # Fallback image
     return "https://source.unsplash.com/800x400/?music"
 
 # Recommend songs based on input
 def recommend_songs(song_title):
     song_title_cleaned = song_title.strip().lower()
-
     matches = df[df['title'].str.contains(song_title_cleaned, na=False)]
 
     if matches.empty:
@@ -57,6 +55,3 @@ def recommend():
     recommendations, error, artist = recommend_songs(song_input)
     image = get_song_cover(song_input, artist)
     return render_template('index.html', recommendations=recommendations, error=error, image=image, input_song=song_input)
-
-# Run the app
-app.run(host='0.0.0.0', port=int(os.environ.get('PORT', 5000)))
