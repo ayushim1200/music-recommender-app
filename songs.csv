@@ -749,3 +749,253 @@ sno,title,artist,top genre,year,bpm,nrgy,dnce,dB,live,val,dur,acous,spch,pop
 748,"Faded",Alan Walker,edm,2015,90,80,75,-4,12,84,225,16,4,92
 749,"Laree Chootee",Call,rock fusion,2007,105,85,70,-5,13,78,235,18,6,85
 750,"Mere Liye Tum Kaafi Ho",Ayushmann Khurrana,bollywood mellow,2020,84,60,58,-6,9,74,240,28,4,85
+751,"Love Story",Taylor Swift,country pop,2008,120,78,76,-5,12,84,220,18,4,91
+752,"You Belong with Me",Taylor Swift,country pop,2008,130,80,82,-4,15,86,210,16,4,92
+753,"Shake It Off",Taylor Swift,pop,2014,160,90,88,-3,20,92,200,10,6,95
+754,"Blank Space",Taylor Swift,pop,2014,96,70,72,-5,11,78,230,20,5,93
+755,"Style",Taylor Swift,synth pop,2014,95,76,75,-4,12,80,215,15,5,91
+756,"Bad Blood",Taylor Swift,pop rock,2015,85,84,70,-3,18,82,210,12,6,90
+757,"Out of the Woods",Taylor Swift,electropop,2014,92,65,60,-5,10,76,240,25,5,87
+758,"Wildest Dreams",Taylor Swift,dream pop,2015,110,68,64,-6,9,74,245,28,4,89
+759,"All Too Well",Taylor Swift,folk rock,2012,92,60,56,-7,8,72,250,40,3,88
+760,"Enchanted",Taylor Swift,pop rock,2010,96,68,60,-5,9,75,240,35,4,87
+761,"22",Taylor Swift,pop,2012,130,86,84,-3,17,89,205,12,5,91
+762,"Red",Taylor Swift,country pop,2012,125,82,80,-4,15,86,210,14,5,90
+763,"Back to December",Taylor Swift,country ballad,2010,78,58,52,-6,7,70,255,40,3,86
+764,"Mine",Taylor Swift,country pop,2010,120,72,70,-5,11,77,230,25,4,88
+765,"Sparks Fly",Taylor Swift,country rock,2010,112,78,74,-4,13,81,220,22,5,89
+766,"Begin Again",Taylor Swift,folk pop,2012,85,56,50,-6,8,73,245,38,3,87
+767,"Everything Has Changed",Taylor Swift,acoustic pop,2013,80,52,48,-7,6,70,250,42,4,86
+768,"I Knew You Were Trouble",Taylor Swift,electropop,2012,154,88,82,-3,18,90,205,10,6,94
+769,"Our Song",Taylor Swift,country,2006,120,76,74,-5,11,80,230,30,3,90
+770,"Teardrops on My Guitar",Taylor Swift,country ballad,2007,78,58,52,-7,8,72,250,35,3,88
+771,"Tim McGraw",Taylor Swift,country,2006,82,60,55,-6,9,74,240,36,4,86
+772,"Look What You Made Me Do",Taylor Swift,dark pop,2017,128,92,80,-3,20,88,210,10,7,91
+773,"...Ready for It?",Taylor Swift,electropop,2017,160,94,85,-2,22,90,200,8,8,92
+774,"Delicate",Taylor Swift,synth pop,2017,95,65,68,-5,10,78,230,20,5,89
+775,"Gorgeous",Taylor Swift,alt pop,2017,100,68,66,-4,11,79,225,18,5,88
+776,"End Game",Taylor Swift,trap pop,2017,84,86,80,-3,17,85,215,12,7,90
+777,"The Archer",Taylor Swift,dream pop,2019,78,50,45,-6,6,72,250,40,3,87
+778,"Lover",Taylor Swift,romantic pop,2019,75,58,60,-6,7,78,230,36,4,91
+779,"You Need to Calm Down",Taylor Swift,bright pop,2019,85,82,79,-4,15,84,210,14,6,91
+780,"Cruel Summer",Taylor Swift,synth pop,2019,110,89,84,-3,18,86,215,10,5,93
+781,"Cornelia Street",Taylor Swift,alt pop,2019,92,62,60,-5,9,76,240,30,4,89
+782,"Cardigan",Taylor Swift,indie folk,2020,90,58,56,-6,8,74,245,35,4,90
+783,"August",Taylor Swift,dream pop,2020,92,60,59,-5,9,75,240,30,4,89
+784,"Exile",Taylor Swift,indie rock,2020,78,55,50,-7,7,72,250,38,3,88
+785,"The 1",Taylor Swift,folk pop,2020,84,62,60,-5,10,76,240,28,4,89
+786,"Mirrorball",Taylor Swift,dream pop,2020,88,64,61,-5,9,77,230,26,4,88
+787,"Willow",Taylor Swift,folk pop,2020,95,65,62,-5,10,78,230,24,4,89
+788,"Champagne Problems",Taylor Swift,piano pop,2020,80,50,46,-6,6,70,250,40,3,87
+789,"Bejeweled",Taylor Swift,disco pop,2022,105,85,83,-3,17,88,215,12,5,91
+790,"Anti-Hero",Taylor Swift,alt pop,2022,100,82,80,-4,16,87,220,14,5,93
+791,"Karma",Taylor Swift,pop,2022,110,88,85,-3,18,89,210,10,6,91
+792,"Lavender Haze",Taylor Swift,cloud pop,2022,108,84,80,-3,15,86,215,12,5,92
+793,"Midnight Rain",Taylor Swift,alt r&b,2022,90,78,72,-4,13,83,230,18,5,89
+794,"Maroon",Taylor Swift,alt pop,2022,88,70,68,-5,11,80,230,22,4,88
+795,"Snow on the Beach",Taylor Swift,dream pop,2022,86,60,58,-5,9,76,240,30,4,87
+796,"Vigilante Shit",Taylor Swift,dark pop,2022,84,85,78,-3,17,85,215,10,6,90
+797,"Sweet Nothing",Taylor Swift,piano pop,2022,82,52,48,-6,7,71,250,38,3,88
+798,"The Man",Taylor Swift,pop rock,2019,110,80,76,-4,13,83,220,16,5,90
+799,"Miss Americana & The Heartbreak Prince",Taylor Swift,dark pop,2019,92,66,62,-5,10,78,230,20,5,89
+800,"ME!",Taylor Swift,bubblegum pop,2019,130,90,88,-3,19,90,205,10,6,92
+801,"Invisible String",Taylor Swift,folk pop,2020,92,62,60,-5,10,76,240,28,4,88
+802,"The Lakes",Taylor Swift,chamber pop,2020,80,58,54,-6,8,74,250,35,3,87
+803,"Forever & Always",Taylor Swift,country pop,2008,128,78,75,-4,12,83,220,20,4,89
+804,"Ours",Taylor Swift,country pop,2010,110,72,70,-5,10,78,230,24,4,87
+805,"If This Was a Movie",Taylor Swift,country ballad,2011,85,60,58,-6,9,73,245,30,3,85
+806,"Only the Young",Taylor Swift,anthemic pop,2020,105,86,80,-3,16,88,215,14,6,89
+807,"Wonderland",Taylor Swift,electropop,2014,120,84,82,-4,14,85,220,18,5,90
+808,"I Forgot That You Existed",Taylor Swift,bright pop,2019,100,76,78,-4,12,83,225,16,5,88
+809,"Dear Reader",Taylor Swift,alt pop,2022,88,64,62,-5,10,80,230,22,4,87
+810,"Hits Different",Taylor Swift,pop rock,2023,102,85,83,-4,15,87,215,12,5,91
+811,"Come & Get It",Selena Gomez,teen pop,2013,90,75,70,-5,11,79,230,20,5,89
+812,"Slow Down",Selena Gomez,dance pop,2013,130,90,86,-3,18,88,215,14,6,90
+813,"The Heart Wants What It Wants",Selena Gomez,electropop,2014,88,68,66,-5,10,77,235,24,4,87
+814,"Good for You",Selena Gomez,dark pop,2015,88,72,68,-5,11,80,230,22,5,88
+815,"Same Old Love",Selena Gomez,pop,2015,94,76,74,-4,13,82,225,18,5,89
+816,"Hands to Myself",Selena Gomez,synth pop,2015,108,84,80,-3,16,86,215,12,6,90
+817,"Kill Em with Kindness",Selena Gomez,pop,2016,100,78,76,-4,12,83,220,16,5,88
+818,"Wolves",Selena Gomez,electro pop,2017,105,85,82,-4,15,86,215,14,6,91
+819,"Back to You",Selena Gomez,pop,2018,96,74,70,-4,12,80,225,20,5,89
+820,"Lose You to Love Me",Selena Gomez,piano pop,2019,65,50,48,-7,7,74,250,35,4,87
+821,"Rare",Selena Gomez,alt pop,2020,92,68,66,-5,10,78,230,24,4,88
+822,"Look At Her Now",Selena Gomez,dance pop,2020,115,90,85,-3,18,89,210,12,6,90
+823,"My Mind & Me",Selena Gomez,indie pop,2022,88,60,58,-6,9,75,240,28,4,86
+824,"Into You",Ariana Grande,edm pop,2016,108,92,89,-3,19,91,210,10,6,93
+825,"Dangerous Woman",Ariana Grande,dark pop,2016,75,68,64,-5,11,80,230,26,4,89
+826,"No Tears Left to Cry",Ariana Grande,alt pop,2018,122,88,85,-3,18,89,210,12,6,92
+827,"God Is a Woman",Ariana Grande,pop r&b,2018,145,90,86,-4,16,88,215,14,6,91
+828,"Breathin",Ariana Grande,pop,2018,85,76,72,-5,10,83,225,20,5,90
+829,"7 Rings",Ariana Grande,trap pop,2019,140,94,88,-3,20,91,205,10,7,93
+830,"Thank U, Next",Ariana Grande,pop rap,2019,110,84,80,-4,15,86,215,14,6,91
+831,"Break Up with Your Girlfriend",Ariana Grande,trap pop,2019,100,85,84,-4,15,86,215,12,6,90
+832,"Stuck with U",Ariana Grande,romantic pop,2020,75,60,58,-6,9,77,240,28,4,88
+833,"Positions",Ariana Grande,r&b pop,2020,100,80,78,-4,13,84,220,16,5,90
+834,"POV",Ariana Grande,soft r&b,2020,82,58,56,-6,9,76,240,30,4,88
+835,"34+35",Ariana Grande,pop,2020,100,85,84,-4,15,86,215,12,6,89
+836,"Santa Tell Me",Ariana Grande,christmas pop,2014,95,76,74,-4,12,82,220,18,5,91
+837,"Baby I",Ariana Grande,r&b pop,2013,120,88,85,-3,17,88,210,12,6,90
+838,"The Way",Ariana Grande,hip hop pop,2013,90,80,78,-4,14,85,220,15,6,89
+839,"One Last Time",Ariana Grande,edm pop,2014,123,89,86,-3,16,88,215,13,6,91
+840,"Love Me Harder",Ariana Grande,r&b pop,2014,96,84,80,-4,13,84,220,16,6,90
+841,"Almost Is Never Enough",Ariana Grande,romantic pop,2013,72,54,50,-6,8,75,250,34,4,87
+842,"Greedy",Ariana Grande,disco pop,2016,112,90,87,-3,18,88,215,14,6,91
+843,"Just Look Up",Ariana Grande,piano pop,2021,90,60,58,-6,10,76,240,28,4,88
+844,"Be Alright",Ariana Grande,deep house,2016,120,82,80,-4,13,83,220,16,5,90
+845,"Everytime",Ariana Grande,alt r&b,2018,105,72,70,-5,10,80,230,20,5,89
+846,"Moonlight",Ariana Grande,dream pop,2016,84,60,58,-6,8,75,240,30,4,87
+847,"Into You (Acoustic)",Ariana Grande,romantic pop,2016,85,60,56,-6,9,75,250,32,4,86
+848,"Focus",Ariana Grande,brass pop,2015,104,84,82,-4,15,86,215,14,6,89
+849,"Bang Bang",Ariana Grande,pop/hip-hop,2014,150,96,90,-3,21,92,200,9,7,94
+850,"Yes, And?",Ariana Grande,empowerment pop,2024,115,89,86,-3,18,90,210,12,6,92
+851,"Afterglow",Ed Sheeran,english soft pop,2020,88,60,58,-6,9,74,245,30,4,87
+852,"Señorita",Shawn Mendes,latin pop,2019,117,84,82,-4,14,86,215,15,6,91
+853,"Calm Down",Rema,afrobeat,2022,110,78,75,-5,12,80,230,18,5,90
+854,"As It Was",Harry Styles,synth pop,2022,174,85,84,-3,17,89,200,10,6,93
+855,"Watermelon Sugar",Harry Styles,pop rock,2019,95,82,80,-4,15,86,215,14,5,91
+856,"Night Changes",One Direction,soft rock,2014,105,65,60,-5,10,75,240,28,4,89
+857,"Story of My Life",One Direction,pop rock,2013,90,70,65,-5,11,78,235,25,4,88
+858,"Perfect",Ed Sheeran,romantic pop,2017,95,60,58,-6,9,75,245,32,3,91
+859,"Levitating",Dua Lipa,disco pop,2020,103,89,86,-3,17,88,210,12,5,92
+860,"Don't Start Now",Dua Lipa,dance pop,2019,124,92,90,-3,18,89,205,11,6,93
+861,"Ranjha",B Praak,punjabi ballad,2021,85,58,55,-6,10,74,245,30,4,85
+862,"Doobey",Lothika,bollywood chill,2022,100,76,72,-4,12,82,230,20,4,88
+863,"Oo Antava",Indravathi Chauhan,telugu item song,2021,102,90,85,-3,17,87,210,14,6,89
+864,"Arabic Kuthu",Anirudh Ravichander,tamil mass,2022,140,95,92,-2,21,90,200,9,8,91
+865,"Kesariya",Arijit Singh,bollywood romantic,2022,89,66,63,-5,10,77,240,26,4,88
+866,"No Lie",Sean Paul,reggae fusion,2016,116,88,84,-3,16,86,215,14,6,91
+867,"Let Me Love You",DJ Snake,edm,2016,100,85,80,-4,13,84,220,16,6,92
+868,"Attention",Charlie Puth,pop,2017,100,84,80,-4,13,85,220,16,6,91
+869,"Hymn for the Weekend",Coldplay,alt pop,2016,90,75,70,-5,12,80,230,22,5,90
+870,"Paradise",Coldplay,alt rock,2011,140,78,75,-4,14,83,215,15,4,89
+871,"Zaalima",Arijit Singh,bollywood romantic,2017,88,64,60,-6,9,75,240,26,4,86
+872,"Udd Gaye",Ritviz,indie fusion,2017,106,86,82,-3,16,87,215,14,6,90
+873,"Coco",AP Dhillon,punjabi hip hop,2021,92,78,74,-5,12,80,230,18,5,87
+874,"No Love",Shubh,punjabi trap,2022,100,85,82,-4,13,84,220,16,6,88
+875,"Janiye",Vishal Mishra,bollywood sad,2023,84,58,56,-6,9,74,245,28,4,85
+876,"Dandelions",Ruth B.,piano pop,2021,85,60,58,-6,9,75,245,30,4,89
+877,"Someone You Loved",Lewis Capaldi,ballad,2018,110,55,50,-7,7,70,250,35,4,90
+878,"Let Her Go",Passenger,folk,2012,75,52,48,-7,6,72,255,40,3,88
+879,"Memories",Maroon 5,pop,2019,91,64,60,-5,10,78,235,22,4,91
+880,"Animals",Maroon 5,alt rock,2014,190,95,90,-3,21,92,200,8,7,93
+881,"Sunflower",Post Malone,hip hop pop,2018,90,85,80,-4,14,87,220,16,6,90
+882,"Circles",Post Malone,alt pop,2019,100,70,68,-5,11,80,230,22,5,88
+883,"Mockingbird",Eminem,rap,2005,90,92,80,-3,22,86,210,10,9,91
+884,"Lose Yourself",Eminem,rap rock,2002,171,95,90,-2,23,88,210,9,9,94
+885,"Unholy",Sam Smith,electro pop,2022,130,90,88,-3,20,91,200,10,6,89
+886,"I'm Good (Blue)",David Guetta,dance edm,2022,128,96,93,-2,21,93,205,9,7,90
+887,"Tusa",Karol G,latin trap,2019,112,85,82,-4,15,87,215,14,6,88
+888,"Bichota",Karol G,latin urban,2020,105,90,85,-3,18,88,210,12,6,89
+889,"Despacito (Remix)",Luis Fonsi,latin pop,2017,89,82,76,-5,10,84,220,14,6,95
+890,"Quevedo: Bzrp Music Sessions",Bizarrap,latin hip hop,2022,112,94,87,-3,18,90,210,12,6,90
+891,"Industry Baby",Lil Nas X,trap pop,2021,150,96,90,-2,20,89,200,9,8,91
+892,"Peaches",Justin Bieber,r&b,2021,90,78,75,-4,13,83,220,16,6,90
+893,"Ghost",Justin Bieber,pop,2021,90,72,70,-5,12,81,230,18,5,88
+894,"Stay",The Kid LAROI,pop,2021,170,95,89,-3,15,90,200,9,6,94
+895,"Holy",Justin Bieber,pop gospel,2020,88,68,65,-5,10,78,230,20,4,88
+896,"Intentions",Justin Bieber,hip hop pop,2020,100,85,80,-4,14,84,220,16,6,90
+897,"Blinding Lights",The Weeknd,synth pop,2020,171,90,89,-4,12,85,200,8,6,93
+898,"Save Your Tears",The Weeknd,pop,2020,118,86,84,-4,14,86,215,12,5,91
+899,"Starboy",The Weeknd,alt r&b,2016,93,88,84,-3,15,88,220,14,6,92
+900,"Die for You",The Weeknd,80s pop,2016,134,85,82,-4,14,87,215,13,5,91
+901,"Sweater Weather",The Neighbourhood,alt indie rock,2013,122,70,65,-5,10,78,240,20,4,92
+902,"Daddy Issues",The Neighbourhood,alt pop,2015,90,62,60,-6,8,74,245,28,4,89
+903,"The Beach",The Neighbourhood,dream pop,2015,92,58,56,-6,9,72,250,30,3,87
+904,"Afraid",The Neighbourhood,indie rock,2013,120,75,70,-4,12,80,230,22,5,88
+905,"R.I.P. 2 My Youth",The Neighbourhood,alt rock,2015,100,68,66,-5,10,76,235,24,4,89
+906,"Reflections",The Neighbourhood,lo-fi alt,2020,94,64,62,-5,9,77,240,26,4,87
+907,"Scary Love",The Neighbourhood,alt pop,2018,98,72,68,-4,11,79,230,20,4,88
+908,"Void",The Neighbourhood,dark pop,2018,92,60,58,-6,9,74,245,28,4,87
+909,"Softcore",The Neighbourhood,alt r&b,2018,91,66,63,-5,10,76,240,24,4,89
+910,"Pretty Boy",The Neighbourhood,indie pop,2020,95,65,62,-5,10,77,235,22,4,88
+911,"Cherry Flavoured",The Neighbourhood,dream pop,2020,93,58,56,-6,8,72,250,30,3,87
+912,"Stargazing",The Neighbourhood,lo-fi pop,2020,89,60,58,-6,9,74,240,26,4,86
+913,"Sadderdaze",The Neighbourhood,alt indie,2017,90,56,54,-6,7,70,250,32,3,85
+914,"Lost in Translation",The Neighbourhood,moody pop,2020,91,64,60,-5,10,75,240,24,4,86
+915,"Middle of Somewhere",The Neighbourhood,indie ballad,2018,80,50,48,-7,6,70,255,36,3,85
+916,"Cry Baby",The Neighbourhood,alt rock,2015,98,68,65,-5,11,78,235,22,4,87
+917,"Wiped Out!",The Neighbourhood,alt surf rock,2015,112,72,70,-4,13,80,225,20,5,88
+918,"Greetings from Califournia",The Neighbourhood,indie alt,2015,96,62,60,-5,10,76,240,26,4,86
+919,"Dangerous",The Neighbourhood,indie rock,2021,100,74,70,-4,12,81,225,20,5,87
+920,"Silver",The Neighbourhood,alt pop,2021,94,66,64,-5,10,77,235,22,4,86
+921,"Swim",Chase Atlantic,dark wave,2017,80,74,68,-4,13,81,230,22,6,91
+922,"Into It",Chase Atlantic,alt r&b,2017,88,78,72,-4,14,83,225,20,5,90
+923,"Okay",Chase Atlantic,alt hip hop,2019,90,72,70,-5,11,79,230,22,6,89
+924,"Heaven and Back",Chase Atlantic,indie pop,2019,84,68,65,-5,10,77,240,24,4,88
+925,"Friends",Chase Atlantic,moody pop,2017,95,64,62,-5,9,74,235,22,4,87
+926,"Obsessive",Chase Atlantic,dark alt pop,2021,92,76,70,-4,12,80,230,20,5,89
+927,"Love Is (Not) Easy",Chase Atlantic,alt r&b,2022,88,66,62,-5,10,75,240,26,4,86
+928,"Meddle About",Chase Atlantic,trap alt,2017,90,80,76,-4,13,82,215,14,6,88
+929,"Tidal Wave",Chase Atlantic,alt synth,2021,85,70,66,-5,10,78,235,24,4,87
+930,"ANGELS",Chase Atlantic,lo-fi trap,2020,90,72,68,-4,12,79,230,22,5,86
+931,"HER",Chase Atlantic,romantic r&b,2019,82,65,60,-6,9,74,245,28,4,86
+932,"CHXSE",Chase Atlantic,dark pop,2019,92,78,74,-4,12,80,230,22,5,88
+933,"Empty",Chase Atlantic,synth pop,2019,89,66,64,-5,10,76,240,24,4,87
+934,"Slow Down",Chase Atlantic,alt trap,2020,95,82,78,-4,14,84,215,16,5,88
+935,"Too Late",Chase Atlantic,alt r&b,2022,88,72,70,-5,10,79,230,20,5,87
+936,"Consume",Chase Atlantic,dark wave,2017,90,75,72,-4,12,80,230,22,5,89
+937,"Uncomfortable",Chase Atlantic,alt pop rock,2019,85,68,66,-5,10,78,240,24,4,86
+938,"Drugs & Money",Chase Atlantic,indie trap,2020,92,80,76,-4,13,83,225,18,6,88
+939,"Slowly",Chase Atlantic,dream pop,2021,89,64,60,-5,9,74,240,28,4,87
+940,"Slide",Chase Atlantic,trap wave,2022,95,85,82,-4,14,86,215,14,6,89
+941,"Molly",Chase Atlantic,alt dark pop,2019,90,75,70,-4,12,80,230,22,5,88
+942,"Hellboy",Chase Atlantic,moody trap,2017,100,84,78,-3,15,85,215,14,6,90
+943,"Empty Hearts",Chase Atlantic,emotional alt,2020,88,68,65,-5,10,77,240,26,4,87
+944,"Too Much Heat",Chase Atlantic,alt pop trap,2022,94,82,76,-4,13,84,220,18,6,89
+945,"CALL ME BACK",Chase Atlantic,trap r&b,2023,90,74,70,-5,10,78,230,22,5,88
+946,"What's My Name",Chase Atlantic,indie synth pop,2022,93,66,62,-5,9,75,240,24,4,86
+947,"LIKE A ROCKSTAR",Chase Atlantic,dark synth,2022,97,85,80,-4,14,86,220,16,6,89
+948,"Numb to the Feeling",Chase Atlantic,alt trap,2020,88,72,70,-5,11,79,230,20,5,87
+949,"LUST",Chase Atlantic,alt r&b,2023,90,78,74,-4,12,81,230,20,5,88
+950,"INTO YOU",Chase Atlantic,trap soul,2023,92,80,76,-4,13,83,225,18,6,89
+951,"All You Had to Do Was Stay",Taylor Swift,pop,2014,102,80,76,-4,13,84,220,18,5,88
+952,"The Story of Us",Taylor Swift,pop rock,2010,130,86,82,-4,15,85,210,16,5,89
+953,"Forever & Always (Taylor's Version)",Taylor Swift,country pop,2021,125,80,75,-4,12,83,220,20,4,91
+954,"Today Was a Fairytale",Taylor Swift,pop,2010,92,72,70,-5,10,78,230,24,4,90
+955,"Change",Taylor Swift,country rock,2008,112,75,70,-5,11,80,230,22,5,89
+956,"Haunted",Taylor Swift,orchestral rock,2010,144,90,84,-3,18,88,215,14,6,91
+957,"Better than Revenge",Taylor Swift,pop punk,2010,170,95,90,-3,20,90,200,10,6,93
+958,"Speak Now",Taylor Swift,country pop,2010,120,76,72,-4,12,80,230,24,4,90
+959,"Never Grow Up",Taylor Swift,acoustic,2010,85,55,50,-6,7,70,255,36,3,86
+960,"Breathe",Taylor Swift,folk pop,2008,82,60,56,-6,9,72,250,30,3,88
+961,"Superman",Taylor Swift,pop country,2010,96,70,65,-5,10,75,240,28,4,87
+962,"Long Live",Taylor Swift,pop rock,2010,96,80,78,-4,13,84,220,18,5,90
+963,"Hey Stephen",Taylor Swift,country pop,2008,110,72,68,-5,10,78,230,24,4,89
+964,"Tell Me Why",Taylor Swift,country pop,2008,125,80,76,-4,12,83,220,20,4,88
+965,"The Outside",Taylor Swift,country,2006,85,60,58,-6,8,74,240,28,3,86
+966,"Stay Beautiful",Taylor Swift,country,2006,110,70,68,-5,10,76,230,24,4,87
+967,"Tied Together with a Smile",Taylor Swift,acoustic pop,2006,95,58,56,-6,8,72,240,30,3,86
+968,"Invisible",Taylor Swift,acoustic,2006,84,55,52,-7,6,70,250,35,3,85
+969,"I Wish You Would",Taylor Swift,synth pop,2014,110,85,80,-4,14,86,215,14,5,89
+970,"How You Get the Girl",Taylor Swift,bright pop,2014,118,88,85,-3,16,87,210,12,5,90
+971,"This Love",Taylor Swift,dream pop,2014,86,58,56,-6,9,74,245,30,3,87
+972,"Clean",Taylor Swift,indie pop,2014,86,60,58,-6,9,75,240,28,4,88
+973,"The Way I Loved You",Taylor Swift,country rock,2008,110,75,72,-4,11,79,230,22,4,89
+974,"You're Not Sorry",Taylor Swift,piano pop,2008,80,58,54,-6,8,73,245,30,3,88
+975,"Fifteen",Taylor Swift,country pop,2008,90,65,62,-5,9,76,240,26,4,89
+976,"White Horse",Taylor Swift,country ballad,2008,78,52,48,-7,7,71,250,35,3,87
+977,"Mr. Perfectly Fine",Taylor Swift,country pop,2021,110,78,75,-4,12,80,230,20,4,90
+978,"You All Over Me",Taylor Swift,folk pop,2021,95,60,58,-5,9,74,245,28,4,87
+979,"That's When",Taylor Swift,country,2021,88,65,60,-5,9,75,240,26,4,86
+980,"Bye Bye Baby",Taylor Swift,country pop,2021,102,72,70,-5,10,78,230,22,4,87
+981,"I Bet You Think About Me",Taylor Swift,country pop,2021,92,70,66,-5,10,77,235,24,4,88
+982,"Nothing New",Taylor Swift,indie folk,2021,84,60,58,-6,9,73,245,28,3,89
+983,"Forever Winter",Taylor Swift,orchestral pop,2021,95,65,62,-5,10,76,240,26,4,88
+984,"Run",Taylor Swift,acoustic pop,2021,85,58,56,-6,8,72,250,30,3,87
+985,"The Very First Night",Taylor Swift,retro pop,2021,110,78,74,-4,12,81,225,20,4,89
+986,"Welcome to New York",Taylor Swift,synth pop,2014,118,84,82,-4,13,86,215,14,5,90
+987,"ME!",Taylor Swift,bubblegum pop,2019,130,92,90,-3,18,91,205,10,6,92
+988,"It's Time to Go",Taylor Swift,folk,2021,82,55,50,-6,8,73,250,34,3,86
+989,"evermore",Taylor Swift,folk pop,2020,90,60,58,-6,9,74,245,30,4,89
+990,"Right Where You Left Me",Taylor Swift,indie folk,2020,84,62,60,-5,10,75,240,28,4,87
+991,"Eyes Open",Taylor Swift,soundtrack rock,2012,120,85,80,-4,14,85,220,16,5,90
+992,"Safe & Sound",Taylor Swift,folk,2012,72,50,48,-6,7,70,255,38,3,86
+993,"Crazier",Taylor Swift,country ballad,2009,80,58,56,-6,9,72,250,30,4,87
+994,"Beautiful Ghosts",Taylor Swift,show tune,2019,75,55,50,-6,7,71,250,34,3,85
+995,"Sweeter Than Fiction",Taylor Swift,pop,2013,100,75,70,-5,10,78,230,22,4,88
+996,"I Don’t Wanna Live Forever",Taylor Swift,alt r&b,2016,118,80,75,-4,13,84,220,18,5,91
+997,"Only the Young",Taylor Swift,anthem pop,2020,106,86,82,-3,16,88,215,14,6,89
+998,"Babe",Taylor Swift,country pop,2018,95,70,68,-5,10,77,235,24,4,88
+999,"I Heart ?",Taylor Swift,teen pop,2009,110,78,75,-5,11,79,230,22,4,89
+1000,"A Place in This World",Taylor Swift,country,2006,105,70,68,-5,10,76,230,22,4,87
